@@ -109,4 +109,4 @@ Parts of this setup were adopted from
 
 ## Support
 
-For any questions about this image and docker setup you may contact us at [support](mailto:info@m9s.biz).
+For any questions about this image and docker setup you may contact us at [support](mailto:jotdevelopers@gmail.com).
